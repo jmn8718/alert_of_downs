@@ -1,0 +1,5 @@
+*.pyc
+sendemail/*.pyc
+test/
+csv/
+logs/
